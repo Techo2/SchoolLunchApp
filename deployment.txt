@@ -1,0 +1,7 @@
+Deployment Steps for SchoolLunchApp
+
+
+1. Download the Yii 1.2 version framework.
+2. Setup the project in Nginx or Apache.
+3. Place the YII folder one level up of th project folder.
+3. Run the App.
